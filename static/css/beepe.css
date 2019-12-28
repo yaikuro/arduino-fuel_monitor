@@ -1,0 +1,63 @@
+.pagination-page-info {
+    padding: .6em;
+    padding-left: 0;
+    width: 40em;
+    margin: .5em;
+    margin-left: 0;
+    font-size: .85vw;
+}
+.pagination-page-info b {
+    color: black;
+    padding-left: 2px;
+    padding: .1em .25em;
+    font-size: .85vw;
+
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+table {
+  font-size: .85vw;
+  text-align: left;
+}
+
+th {
+  font-stretch: expanded;
+}
+
+textarea {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.75vw;
+  font-weight: normal;
+  line-height: 1.65
+}
+
+#title {
+	font-size: 10vw;
+  color: Black;
+}
+
+#subtitle {
+	font-size: 3.0vw;
+}
+
+#subsubtitle {
+	font-size: 1.5vw;
+}
+
+#nav_item {
+  font-size: 0.8vw;
+}
+
+#foot {
+	font-size: .65vw;
+}
